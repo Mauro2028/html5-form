@@ -1,0 +1,25 @@
+.alert{
+    display: none;
+}
+.card{
+    width: 95%;
+    margin: 15px auto;
+}
+.card-header{
+    background-color: #d5e4ef;
+}
+
+.tarjetas{
+    display:block;
+}
+.btn{
+    margin-left:10px;
+    float: right;
+}
+.form-check-label{
+    font-size: 30px;
+}
+.seleccionTarjeta{
+    height: 55px;
+}
+
